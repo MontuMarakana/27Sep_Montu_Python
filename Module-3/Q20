@@ -1,0 +1,3 @@
+y = ("python")
+x = reversed(y)
+print(tuple(x))
