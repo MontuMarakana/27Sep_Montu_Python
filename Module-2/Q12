@@ -1,0 +1,4 @@
+str = "This is python subject."
+print()
+print(str.count("python"))
+print()
