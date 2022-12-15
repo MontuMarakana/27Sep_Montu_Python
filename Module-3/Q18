@@ -1,0 +1,4 @@
+
+
+tuple = ("w3school")
+print(len(tuple))
