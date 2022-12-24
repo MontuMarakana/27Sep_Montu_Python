@@ -1,0 +1,3 @@
+fl = open("test.txt","r")
+	list = fl.readlines()
+	print(list)
