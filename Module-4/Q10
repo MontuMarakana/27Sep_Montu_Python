@@ -1,0 +1,6 @@
+# list of names
+	names = ['Dip', 'Python', 'Rajkot']
+	fl = open('test.txt', 'w') # as fl:
+	for item in names:
+	        fl.write("%s \n" %item)
+	print('Done')
