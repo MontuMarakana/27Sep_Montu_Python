@@ -1,0 +1,16 @@
+
+[Q-2] How to check installed version of django?
+
+    -> open command prompt 
+
+    -> Type below code :-
+
+                        python -m django --version
+
+    
+
+    -> Example :-
+
+        C:\Users\sadar>python -m django --version
+
+        3.3.8
